@@ -1,2 +1,2 @@
-# testMergeConflict
+# first-branch
 repo used for testing merge conflicts and resolving them. 
